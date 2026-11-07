@@ -5,7 +5,7 @@
 
 
 #tomorrows task
-revise linux and aws 
-english practice 2 hrs 
+#revise linux and aws 
+#english practice 2 hrs 
 
 
